@@ -48,3 +48,8 @@ img { border: none; }
    sean necesarios.
    ================================================================== */
    
+   *{
+     font-family: Arial, Helvetica, sans-serif; color:red;
+     font-size: 0.9em;
+     
+   }
